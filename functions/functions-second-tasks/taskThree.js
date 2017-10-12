@@ -1,0 +1,3 @@
+function multipleHa(num){
+}
+multipleHa();
