@@ -1,4 +1,1 @@
-# bit-cs
-
-
-IZLOGUJTE ME
+bit-cs
